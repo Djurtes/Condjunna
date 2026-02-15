@@ -1,0 +1,5 @@
+Game_name:康狄娜之心;
+Game_key:1450d4df7794f1d;
+Title_img:康狄娜之心的标题.png;
+Title_bgm:标题曲.mp3;
+Textbox_theme:imss;
